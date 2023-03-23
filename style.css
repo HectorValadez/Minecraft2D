@@ -1,0 +1,16 @@
+body{
+ background-image: url(minecraft.webp);
+ background-size: 100% 100%;
+ overflow: hidden;
+ text-align: center;
+}
+#canvas{
+    border: cornflowerblue 5px solid;
+background-image: url(plano.jpg);
+background-size: 100% 150%;
+}
+#tamaño{
+    background-color: rgba(12, 199, 183, 0.582);
+    width: 45%;
+    margin: 0 auto;
+}
